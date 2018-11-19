@@ -1,0 +1,18 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+
+int main()
+{
+string input = "";
+    
+if (input == "True" || input == "true" || input == "T" || input == "t")
+   {}
+else if (input == "False" || input == "false" || input == "F" || input "f")
+   {}
+else {
+cout << "Please enter a valid response" << endl;
+}
+return 0;
+}
